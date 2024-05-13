@@ -1,0 +1,1 @@
+{"dropout_rate": 0.0947398780461146, "learning_rate_init": 0.0005156270274941453, "n_channels_conv_0": 514, "n_conv_layers": 3, "use_BN": true, "n_channels_conv_1": 771, "n_channels_conv_2": 513}

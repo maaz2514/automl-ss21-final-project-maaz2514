@@ -1,0 +1,1 @@
+{"data_aug": "B", "dropout_rate": 0.24388022922965288, "global_avg_pooling": false, "kernel_size": 7, "learning_rate_init": 0.0006169238296737786, "n_channels_conv_0": 249, "n_conv_layers": 1, "use_BN": true}
